@@ -23,8 +23,6 @@ By 罗锦源{.text-intro}
 3. 444
    :::{.content-right}
 
-### Install
-
 <slide image="https://webslides.tv/static/images/iphone-hand.png .right-bottom">
 
 :::{.content-left}
@@ -48,11 +46,35 @@ Your battery worries may be over.
 
 ---
 
-::fa-life-ring::
+::fa-battery-full::
 
 ## All day battery life
 
-We'll fix it or if we can't, we'll replace it.
+Your battery worries may be over.
+
+---
+
+::fa-battery-full::
+
+## All day battery life
+
+Your battery worries may be over.
+
+---
+
+::fa-battery-full::
+
+## All day battery life
+
+Your battery worries may be over.
+
+---
+
+::fa-battery-full::
+
+## All day battery life
+
+Your battery worries may be over.
 
 :::
 
@@ -69,5 +91,3 @@ Psychiatrists have long debated whether it really exists. {.text-pull-right}
 The syndrome is not only associated with viewing a beautiful place, but also good art.
 
 The beauty of Italian art has a concentrated perfection and transcendent sensuality that is incredibly addictive.
-
-<slide>
