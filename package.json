@@ -1,0 +1,19 @@
+{
+  "name": "mynote",
+  "version": "1.0.0",
+  "description": "年终总结",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luo-jacky/mynote.git"
+  },
+  "author": "luo-jacky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luo-jacky/mynote/issues"
+  },
+  "homepage": "https://github.com/luo-jacky/mynote#readme"
+}
